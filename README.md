@@ -1,4 +1,4 @@
-[![Masterhead](https://wallpaperaccess.com/full/4525229.jpg)]
+![Masterhead](https://wallpaperaccess.com/full/4525229.jpg)
 <h1 align="center">Hi 👋, I'm ARPAN KUMAR MONDAL</h1>
 <h3 align="center">DSA ENTHUSIAST || WEB DEVELOPMENT ENTHUSIAST</h3>
 <img align="right" alt="coding" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif"
